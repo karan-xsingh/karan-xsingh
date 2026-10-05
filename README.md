@@ -273,8 +273,7 @@ Concurrency-safe ledger with idempotency, multi-factor ranking algorithm. Produc
 │  🏥  MediSense → More disease modules + mobile app      │
 │  📄  Research  → Submit paper to IEEE/Springer          │  
 │  🔐  Security  → Complete cybersecurity specialization  │
-│  🧩  DSA       → 200+ LeetCode | FAANG prep             │
-│  🎯  Goal      → 50 LPA Campus Placement by 2028        │
+│                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
 
