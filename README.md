@@ -33,7 +33,7 @@
 ---
 
 <!-- ABOUT ME SECTION -->
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=karan-xsingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117"/>
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=karan-xsingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117&rank_icon=github"/>
 
 ### 💫 About Me
 
